@@ -57,5 +57,6 @@ other IDE's that work with C++
 [Diamond Punch Gameplay](https://www.youtube.com/watch?v=a39x9wpikZI)
 
 **5. Screenshots**
-===================![](/[URL=http://s150.photobucket.com/user/kiara_17_photos/media/DiamondPunchPic2_zps42af34ca.png.html][IMG]http://i150.photobucket.com/albums/s118/kiara_17_photos/DiamondPunchPic2_zps42af34ca.png[/IMG][/URL])
+===================
+
 
