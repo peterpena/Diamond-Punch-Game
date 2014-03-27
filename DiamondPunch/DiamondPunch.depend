@@ -1,0 +1,197 @@
+# depslib dependency file v1.0
+1374271566 source:f:\gi class\diamondpunch\backbuffer.cpp
+	"backbuffer.h"
+
+1374271558 f:\gi class\diamondpunch\backbuffer.h
+	<windows.h>
+
+1373696030 source:f:\gi class\diamondpunch\circle.cpp
+	"circle.h"
+
+1373696030 f:\gi class\diamondpunch\circle.h
+	"Vec2.h"
+
+1373524812 f:\gi class\diamondpunch\vec2.h
+	<windows.h>
+
+1374263840 source:f:\gi class\diamondpunch\diamondpunch.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1374263840 f:\gi class\diamondpunch\resource.h
+
+1374280844 source:f:\gi class\diamondpunch\diamondpunchgame.cpp
+	"diamondpunchgame.h"
+	<cstdio>
+	"resource.h"
+	<iostream>
+	<cmath>
+	"Vec2.h"
+
+1374280204 f:\gi class\diamondpunch\diamondpunchgame.h
+	<windows.h>
+	<vector>
+	"Sprite.h"
+	"Rect.h"
+	"Circle.h"
+	<cstdio>
+
+1374023840 f:\gi class\diamondpunch\sprite.h
+	<windows.h>
+	"Circle.h"
+	"Vec2.h"
+
+1374003560 f:\gi class\diamondpunch\rect.h
+	"Circle.h"
+
+1374280360 source:f:\gi class\diamondpunch\main.cpp
+	<string>
+	"resource.h"
+	"DiamondPunchGame.h"
+	"BackBuffer.h"
+	"Sprite.h"
+
+1374003918 source:f:\gi class\diamondpunch\rect.cpp
+	"rect.h"
+
+1374274652 source:f:\gi class\diamondpunch\sprite.cpp
+	"sprite.h"
+	<cassert>
+
+1373523760 source:f:\gi class\diamondpunch\vec2.cpp
+	"Vec2.h"
+	<cmath>
+
+1374271566 source:f:\gameinstitute\gi class\diamondpunch\backbuffer.cpp
+	"backbuffer.h"
+
+1374271558 f:\gameinstitute\gi class\diamondpunch\backbuffer.h
+	<windows.h>
+
+1373696030 source:f:\gameinstitute\gi class\diamondpunch\circle.cpp
+	"circle.h"
+
+1373696030 f:\gameinstitute\gi class\diamondpunch\circle.h
+	"Vec2.h"
+
+1373524812 f:\gameinstitute\gi class\diamondpunch\vec2.h
+	<windows.h>
+
+1374263840 source:f:\gameinstitute\gi class\diamondpunch\diamondpunch.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1374263840 f:\gameinstitute\gi class\diamondpunch\resource.h
+
+1374280844 source:f:\gameinstitute\gi class\diamondpunch\diamondpunchgame.cpp
+	"diamondpunchgame.h"
+	<cstdio>
+	"resource.h"
+	<iostream>
+	<cmath>
+	"Vec2.h"
+
+1388691076 f:\gameinstitute\gi class\diamondpunch\diamondpunchgame.h
+	<windows.h>
+	<vector>
+	"Sprite.h"
+	"Rect.h"
+	"Circle.h"
+	<cstdio>
+
+1374023840 f:\gameinstitute\gi class\diamondpunch\sprite.h
+	<windows.h>
+	"Circle.h"
+	"Vec2.h"
+
+1374003560 f:\gameinstitute\gi class\diamondpunch\rect.h
+	"Circle.h"
+
+1388690292 source:f:\gameinstitute\gi class\diamondpunch\main.cpp
+	<string>
+	"resource.h"
+	"DiamondPunchGame.h"
+	"BackBuffer.h"
+	"Sprite.h"
+
+1374003918 source:f:\gameinstitute\gi class\diamondpunch\rect.cpp
+	"rect.h"
+
+1374274652 source:f:\gameinstitute\gi class\diamondpunch\sprite.cpp
+	"sprite.h"
+	<cassert>
+
+1373523760 source:f:\gameinstitute\gi class\diamondpunch\vec2.cpp
+	"Vec2.h"
+	<cmath>
+
+1374275166 source:f:\penagaming\diamondpunch\backbuffer.cpp
+	"backbuffer.h"
+
+1374275158 f:\penagaming\diamondpunch\backbuffer.h
+	<windows.h>
+
+1373699630 source:f:\penagaming\diamondpunch\circle.cpp
+	"circle.h"
+
+1373699630 f:\penagaming\diamondpunch\circle.h
+	"Vec2.h"
+
+1373528412 f:\penagaming\diamondpunch\vec2.h
+	<windows.h>
+
+1374267440 source:f:\penagaming\diamondpunch\diamondpunch.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1374267440 f:\penagaming\diamondpunch\resource.h
+
+1395960207 source:f:\penagaming\diamondpunch\diamondpunchgame.cpp
+	"diamondpunchgame.h"
+	<cstdio>
+	"resource.h"
+	<iostream>
+	<cmath>
+	"Vec2.h"
+
+1395959543 f:\penagaming\diamondpunch\diamondpunchgame.h
+	<windows.h>
+	<vector>
+	"Sprite.h"
+	"Rect.h"
+	"Circle.h"
+	<cstdio>
+	<string>
+
+1374027440 f:\penagaming\diamondpunch\sprite.h
+	<windows.h>
+	"Circle.h"
+	"Vec2.h"
+
+1374007160 f:\penagaming\diamondpunch\rect.h
+	"Circle.h"
+
+1395959676 source:f:\penagaming\diamondpunch\main.cpp
+	<string>
+	"resource.h"
+	"DiamondPunchGame.h"
+	"BackBuffer.h"
+	"Sprite.h"
+
+1374007518 source:f:\penagaming\diamondpunch\rect.cpp
+	"rect.h"
+
+1374278252 source:f:\penagaming\diamondpunch\sprite.cpp
+	"sprite.h"
+	<cassert>
+
+1373527360 source:f:\penagaming\diamondpunch\vec2.cpp
+	"Vec2.h"
+	<cmath>
+
