@@ -6,7 +6,6 @@
 2. Controls
 3. How to setup project
 4. Link to demo video
-5. Gameplay Screenshots
 
 **1. How To Play**
 ===================
@@ -56,7 +55,5 @@ other IDE's that work with C++
 ==========================
 [Diamond Punch Gameplay](https://www.youtube.com/watch?v=a39x9wpikZI)
 
-**5. Screenshots**
-===================
 
 
