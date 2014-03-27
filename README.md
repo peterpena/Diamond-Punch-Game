@@ -19,20 +19,30 @@ The goal of the game is to score 5 baskets before the other player
 Player 1
 ------------
 'Q'    - Grab Diamond
+
 'E'    - Throw Diamond
+
 'W'    - Up
+
 'S'    - Down
+
 'A'    - Left
+
 'D'    - Right
 
 Player 2
 -------------------
 
 'Shift'         - Grab Diamond
+
 'Return'        - Throw Diamond
+
 Up Arrow Key    - Up
+
 Down Arrow Key  - Down
+
 Left Arrow Key  - Left
+
 Right Arrow Key - Right
 
 **3. How To Setup Project**
@@ -48,5 +58,3 @@ other IDE's that work with C++
 
 **5. Screenshots**
 ===================
-![](//DiamondPunchPic.png)
-![](//DiamondPunchPic2.png)
