@@ -32,4 +32,4 @@ Player 2
 Up Arrow Key    - Up
 Down Arrow Key  - Down
 Left Arrow Key  - Left
-RIght Arrow Key - Rightwssssssssssssss
+Right Arrow Key - Right
