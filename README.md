@@ -6,6 +6,7 @@
 2. Controls
 3. How to setup project
 4. Link to demo video
+%. Gameplay Screenshots
 
 **1. How To Play**
 ===================
@@ -54,6 +55,14 @@ other IDE's that work with C++
 **4. Link to Demo Video**
 ==========================
 [Diamond Punch Gameplay](https://www.youtube.com/watch?v=a39x9wpikZI)
+
+5. Gameplay Screenshots
+========================
+[Screenshot 1](https://raw.githubusercontent.com/peterpena/Diamond-Punch-Game/master/DiamondPunchPic.png)
+
+[Screenshot 2](https://raw.githubusercontent.com/peterpena/Diamond-Punch-Game/master/DiamondPunchPic2.png)
+
+
 
 
 
